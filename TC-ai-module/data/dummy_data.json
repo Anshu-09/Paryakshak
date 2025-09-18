@@ -1,0 +1,52 @@
+[
+  {
+    "tourist_id": "T001",
+    "location": "Shillong Peak",
+    "expected": "Shillong Peak",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "crowd_level": 45,
+    "incident_flag": false,
+    "weather_condition": "clear",
+    "safety_score": 0.85
+  },
+  {
+    "tourist_id": "T002",
+    "location": "Unknown Trail",
+    "expected": "Elephant Falls",
+    "timestamp": "2024-01-15T11:15:00Z",
+    "crowd_level": 12,
+    "incident_flag": true,
+    "weather_condition": "foggy",
+    "safety_score": 0.32
+  },
+  {
+    "tourist_id": "T003",
+    "location": "Police Bazaar",
+    "expected": "Ward's Lake",
+    "timestamp": "2024-01-15T12:00:00Z",
+    "crowd_level": 78,
+    "incident_flag": false,
+    "weather_condition": "sunny",
+    "safety_score": 0.67
+  },
+  {
+    "tourist_id": "T004",
+    "location": "Umiam Lake",
+    "expected": "Umiam Lake",
+    "timestamp": "2024-01-15T13:45:00Z",
+    "crowd_level": 23,
+    "incident_flag": false,
+    "weather_condition": "partly_cloudy",
+    "safety_score": 0.91
+  },
+  {
+    "tourist_id": "T005",
+    "location": "Restricted Area",
+    "expected": "Don Bosco Museum",
+    "timestamp": "2024-01-15T14:20:00Z",
+    "crowd_level": 3,
+    "incident_flag": true,
+    "weather_condition": "rainy",
+    "safety_score": 0.15
+  }
+]
